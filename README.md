@@ -1,16 +1,23 @@
-# lakbay
+# Lak-bay
 
-Mobile-based Travel Recommendation and Travel Buddy Application
+Mobile Based Travel Recommendation and Travel Buddy Application
 
-## Getting Started
+## About The Project
 
-This project is a starting point for a Flutter application.
+This project is for educational purpose only, this is made for Capstone 1 and 2
 
-A few resources to get you started if this is your first Flutter project:
+Built in Flutter and Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- Recommendation
+- Travel Planner
+- Emergency Tab
+- Expense Planner
+- Travel History
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Sample Screenshots
+![Login Page](screenshots/login.jpg)
+![Onboarding Page](screenshots/onboarding.jpg) ![Onboarding Page](screenshots/onboarding1.jpg)
+![Recommendation Page](screenshots/recommendation1.jpg) ![Recommendation Page](screenshots/recommendation2.jpg) 
+![Planner Page](screenshots/planner.jpg) 
+![Emergency Page](screenshots/emergency1.jpg) ![Emergency Page](screenshots/emergency2.jpg) 
