@@ -16,13 +16,17 @@ Built in Flutter and Dart
 - Travel History
 
 ## Sample Screenshots
-<p float="left">
+<p float="center">
 <img src="screenshots/login.jpg" alt="Login Page" width="200" height="400">
+  <br>
 <img src="screenshots/onboarding.jpg" alt="Onboarding Page" width="200" height="400">
 <img src="screenshots/onboarding1.jpg" alt="Onboarding Page" width="200" height="400">
+  <br>
 <img src="screenshots/recommendation1.jpg" alt="Recommendation Page" width="200" height="400">
 <img src="screenshots/recommendation2.jpg" alt="Recommendation Page" width="200" height="400">
+  <br>
 <img src="screenshots/planner.jpg" alt="Planner Page" width="200" height="400">
+  <br>
 <img src="screenshots/emergency1.jpg" alt="Emergency Page" width="200" height="400">
 <img src="screenshots/emergency2.jpg" alt="Emergency Page" width="200" height="400">
 </p>
