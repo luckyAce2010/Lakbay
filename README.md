@@ -1,5 +1,5 @@
 # Lak-bay
-
+Thesis Project --- Don't expect too much :D
 Mobile Based Travel Recommendation and Travel Buddy Application
 
 ## About The Project
